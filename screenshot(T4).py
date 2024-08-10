@@ -2,6 +2,7 @@
 pip install pyscreenshot
 '''
 
+
 import pyscreenshot 
 
 image = pyscreenshot.grab() 
