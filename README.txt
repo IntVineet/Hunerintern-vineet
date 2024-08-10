@@ -1,4 +1,4 @@
-# This repository is made under task of HUNERINTERN
+#This repository is made under task of HUNERINTERN
 TASK 1- WORD GUESSING GAME
 TASK 2- TIC TAC TOE GAME
 TASK 3- DESKTOP NOTIFIEER
