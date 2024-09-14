@@ -1,4 +1,4 @@
-# This repository contain project made with help of Pythin language
+# This repository contain project made with help of Python language
 TASK 1- WORD GUESSING GAME  
 TASK 2- TIC TAC TOE GAME  
 TASK 3- DESKTOP NOTIFIEER  
